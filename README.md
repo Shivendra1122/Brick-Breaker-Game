@@ -73,6 +73,7 @@ License
 This project is licensed under the MIT License.
 
 Screenshots
+<img width="1152" height="896" alt="Gemini_Generated_Image_yxqumfyxqumfyxqu" src="https://github.com/user-attachments/assets/b491d983-3a83-4268-a490-49773a75aded" />
 <img width="1000" height="784" alt="image" src="https://github.com/user-attachments/assets/9275de16-f471-4f67-a84e-db0133536536" />
 
 Contact
